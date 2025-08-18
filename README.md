@@ -1,8 +1,8 @@
 # Aplikasi-Web-untuk-rekomendasi-penerimaan-peserta-magang-di-PT-Semen-Padang
 
 ## 🚀 Deskripsi 
-Aplikasi ini membantu merekomendasikan peserta magang yag cocok dengan standar dan kualitas yang 
-diharapkan di PT Semen Padang dengan metode Fuzzy Tsukamoto dan SAW.
+Aplikasi ini membantu merekomendasikan peserta magang yang sesuai dengan standar dan kualitas yang 
+diharapkan oleh PT Semen Padang dengan metode Fuzzy Tsukamoto dan SAW.
 
 ## 🛠️ Tech Stack 
 - PHP
